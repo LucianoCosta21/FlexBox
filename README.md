@@ -5,7 +5,7 @@
 </p>
 
 ## 📖 Sobre
-O projeto foi desenvolvido durante o curso de CSS FlexBox Origamid, nele aprendemos a criar layout responsivo usando as propridades do Flexbox.
+O projeto foi desenvolvido durante o curso de CSS FlexBox da Origamid, nele aprendemos a criar layout responsivo usando as propridades do Flexbox.
 
 ---
 
