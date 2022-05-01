@@ -1,7 +1,7 @@
 # FlexBox
 
 <p align="center">
-  <img src="FlexBox.PNG" alt="Flexbox" title="Flebox">
+  <img src="https://imgur.com/a/qkfwZz5" alt="Flexbox" title="Flebox">
 </p>
 
 ## 📖 Sobre
