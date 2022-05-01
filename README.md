@@ -16,7 +16,7 @@ O projeto foi desenvolvido durante o curso de CSS FlexBox Origamid, nele aprende
 ---
 
 ## 🖥️ Demonstração
-[![Bikcraft](https://i.imgur.com/Gy5e6Tn.png "Clique para acessar o projeto")](https://lucianocosta21.github.io/FlexBox/ "Clique para acessar o projeto")
+[![Bikcraft](https://i.imgur.com/Wv00a9U.png "Clique para acessar o projeto")](https://lucianocosta21.github.io/FlexBox/ "Clique para acessar o projeto")
 
 Você pode acessar o projeto clicando [aqui](https://lucianocosta21.github.io/FlexBox/).
 
